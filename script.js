@@ -28,6 +28,17 @@ document.querySelectorAll('.tab-btn').forEach(btn => {
   });
 });
 
+// Specifications tabs
+document.querySelectorAll('.spec-tab-btn').forEach(btn => {
+  btn.addEventListener('click', () => {
+    const spec = btn.dataset.spec;
+    document.querySelectorAll('.spec-tab-btn').forEach(b => b.classList.remove('active'));
+    document.querySelectorAll('.spec-tab-panel').forEach(p => p.classList.remove('active'));
+    btn.classList.add('active');
+    document.getElementById(`spec-${spec}`).classList.add('active');
+  });
+});
+
 // Lightbox
 const lightbox = document.getElementById('lightbox');
 const lightboxImg = document.getElementById('lightbox-img');
@@ -71,14 +82,14 @@ document.addEventListener('keydown', e => {
   if (e.key === 'ArrowRight') showPhoto(currentIndex + 1);
 });
 
-['inside', 'outside'].forEach(galleryId => {
-  const grid = document.getElementById(`${galleryId}-grid`);
-  if (!grid) return;
-  const photos = Array.from(grid.querySelectorAll('.grid-photo'));
+// Wire up single gallery grid
+const galleryGrid = document.getElementById('gallery-grid');
+if (galleryGrid) {
+  const photos = Array.from(galleryGrid.querySelectorAll('.grid-photo'));
   photos.forEach((photo, i) => {
     photo.addEventListener('click', () => openLightbox(photos, i));
   });
-});
+}
 
 // Contact form — Formspree async submit
 const contactForm = document.getElementById('contact-form');
