@@ -57,6 +57,7 @@ async function loadAndApply(lang) {
   currentLang = lang;
   localStorage.setItem('lang', lang);
   applyTranslations();
+  syncSelect(lang);
 }
 
 // Detect preferred language: localStorage → browser → default.
@@ -67,11 +68,22 @@ function detectLang() {
   return SUPPORTED.includes(browser) ? browser : DEFAULT_LANG;
 }
 
-// Wire up language switcher buttons.
+// Wire up language switcher — buttons (desktop) and select (mobile).
 function initSwitcher() {
   document.querySelectorAll('.lang-btn').forEach(btn => {
     btn.addEventListener('click', () => loadAndApply(btn.dataset.lang));
   });
+
+  const select = document.querySelector('.lang-select');
+  if (select) {
+    select.addEventListener('change', () => loadAndApply(select.value));
+  }
+}
+
+// Keep select value in sync when language changes.
+function syncSelect(lang) {
+  const select = document.querySelector('.lang-select');
+  if (select) select.value = lang;
 }
 
 // Boot.
