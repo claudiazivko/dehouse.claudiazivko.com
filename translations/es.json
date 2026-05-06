@@ -1,0 +1,154 @@
+{
+  "nav": {
+    "location": "Ubicación",
+    "features": "Características",
+    "floor_plans": "Planos",
+    "gallery": "Galería",
+    "specifications": "Especificaciones",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "title": "Casa de obra nueva en Establiments, Mallorca"
+  },
+  "sections": {
+    "location": "UBICACIÓN",
+    "features": "CARACTERÍSTICAS",
+    "floor_plans": "PLANOS",
+    "gallery": "GALERÍA",
+    "specifications": "ESPECIFICACIONES",
+    "contact": "CONTACTO"
+  },
+  "location": {
+    "copy_1": "Establiments es un tranquilo pueblo situado en el extremo norte de Palma, recogido en las estribaciones de la Serra de Tramuntana, la cordillera caliza que protege la costa occidental de la isla y reconocida como paisaje Patrimonio Mundial por la UNESCO.",
+    "copy_2": "Desde la casa se llega en diez minutos en coche al centro de Palma y a su casco antiguo, en quince al puerto y en menos de veinte al aeropuerto. En las proximidades se encuentran algunos de los campos de golf más prestigiosos de la isla, las rutas de senderismo de Valldemossa y Bunyola, y las playas de la bahía de Palma."
+  },
+  "features": {
+    "label": {
+      "plot": "Parcela",
+      "built_area": "Superficie construida",
+      "bedrooms": "Dormitorios",
+      "bathrooms": "Baños",
+      "fireplace": "Chimenea",
+      "pool": "Piscina",
+      "heating": "Calefacción / Refrigeración",
+      "roof_terrace": "Terraza en la azotea",
+      "garage": "Garaje",
+      "price": "Precio",
+      "year_built": "Año de construcción"
+    },
+    "value": {
+      "bedrooms": "3 (principal + 2)",
+      "bathrooms": "3 + aseo de cortesía",
+      "fireplace": "Leña, cristal de guillotina",
+      "pool": "30 m² — electrólisis salina",
+      "heating": "Suelo radiante — aerotermia + bomba de calor",
+      "garage": "2 coches",
+      "year_built": "Obra nueva"
+    }
+  },
+  "floorplans": {
+    "ground_floor": "Planta baja",
+    "first_floor": "Primera planta",
+    "plot_label": "Parcela:",
+    "built_area_label": "Superficie construida:"
+  },
+  "specs": {
+    "tab": {
+      "overview": "Resumen",
+      "structure": "Estructura y envolvente",
+      "interiors": "Interiores y acabados",
+      "systems": "Sistemas y equipamiento"
+    },
+    "overview": {
+      "label": {
+        "reference": "Referencia",
+        "location": "Ubicación",
+        "plot": "Parcela",
+        "built_area": "Superficie construida",
+        "bedrooms": "Dormitorios",
+        "bathrooms": "Baños",
+        "pool": "Piscina",
+        "roof_terrace": "Terraza en la azotea",
+        "garage": "Garaje",
+        "heating": "Calefacción / Refrigeración",
+        "fireplace": "Chimenea",
+        "price": "Precio",
+        "year_built": "Año de construcción"
+      },
+      "value": {
+        "location": "Establiments, Mallorca, España",
+        "bedrooms": "3 (principal + 2)",
+        "bathrooms": "3 + aseo de cortesía",
+        "pool": "30 m² — electrólisis salina",
+        "garage": "2 coches",
+        "heating": "Suelo radiante — aerotermia + bomba de calor",
+        "fireplace": "Leña, cristal de guillotina",
+        "year_built": "Obra nueva"
+      }
+    },
+    "structure": {
+      "label": {
+        "structure": "Estructura",
+        "exterior_enclosure": "Cerramiento exterior",
+        "interior_partitions": "Tabiquería interior",
+        "exterior_joinery": "Carpintería exterior",
+        "paint": "Pintura",
+        "skirting": "Rodapié"
+      },
+      "value": {
+        "structure": "Cimentación, pilares y forjado horizontal de hormigón armado. Cubierta a dos aguas con vigas de madera pintadas en la planta superior.",
+        "exterior_enclosure": "Fachada de 26 cm compuesta por muros de ladrillo H-20 sobre mortero de cemento Portland y arena 1:4, con aislamiento térmico de lana de roca de 45 mm. Trasdosado interior con dos placas de yeso laminado Pladur de 12 mm.",
+        "interior_partitions": "Tabiquería de doble placa de yeso laminado Pladur de 12 mm a ambos lados, con aislamiento térmico y acústico de lana mineral de 45 mm entre paneles.",
+        "exterior_joinery": "Aluminio en antracita (RAL 7022 TX) en planta baja y RAL 1013 en planta superior. Vidrio Guardian Sun® con cámara de aire. Persianas de aluminio en primera planta en verde 6021 TX. Puerta principal de iroko. Acristalamiento con perfilería de hierro en el patio interior; pérgola exterior de hierro con cubierta de cañizo; puerta de garaje motorizada.",
+        "paint": "Pintura interior a la cal en tono arena; pintura normal en vigas de madera. Fachada color arena con acabado revocado a llana.",
+        "skirting": "Rodapié invisible en todo el interior, excepto en baños."
+      }
+    },
+    "interiors": {
+      "label": {
+        "interior_joinery": "Carpintería interior",
+        "flooring": "Pavimentos y revestimientos",
+        "bathrooms": "Baños",
+        "kitchen": "Cocina",
+        "kitchen_appliances": "Electrodomésticos de cocina",
+        "fireplace": "Chimenea",
+        "pool": "Piscina",
+        "garden": "Jardín"
+      },
+      "value": {
+        "interior_joinery": "Puertas interiores de roble. Armarios empotrados de roble, forrados en melamina textil. Manillas Galbusera 1833/M en negro antiguo y tiradores de armario Raw Metal de 25 mm. Cajoneras bajo lavabo en DM acabado roble.",
+        "flooring": "Planta baja, recibidor y baños de la planta superior en piedra de 60×60 cm. Dormitorios de la planta superior en roble natural de 20 cm. Piscina y terrazas de la planta superior en piedra abujardada de 60×60 cm. Garaje de hormigón pulido. Revestimiento de microcemento en zonas húmedas.",
+        "bathrooms": "Encimeras y lavabos de piedra. Mamparas de ducha de cristal transparente a toda altura; ducha a ras de suelo integrada en pavimento, techo y pared. Monomandos Ritmonio Diam 35 en BLX negro cepillado. Bañera Laufen con revestimiento y zócalo de piedra. Inodoros suspendidos Duravit Starck 3. Cisternas empotradas Geberit con pulsador Sigma 20 en negro.",
+        "kitchen": "Encimera de piedra y mobiliario acabado roble con tiradores forjados. Interiores en melamina antracita. Frigorífico y lavavajillas panelados.",
+        "kitchen_appliances": "Placa de inducción con extractor descendente BORA Pure al exterior. Horno Gaggenau (BOP210112) y microondas (BMO224110). Frigorífico/congelador Liebherr Bio Fresh. Lavavajillas Miele Active Plus y vinoteca. Fregadero bajo encimera Blanco Andano 500-U, grifo FONTAS-S II 3 en 1 en negro.",
+        "fireplace": "Chimenea de leña de hierro negro de 100 cm con puerta frontal de cristal de guillotina.",
+        "pool": "Electrólisis salina con skimmers y sistema de limpieza Pool Valet. Mosaico de 2×2 cm en verde oscuro.",
+        "garden": "Se entrega con riego automático. Césped grama plantado; setos en maceta y árboles existentes replantados."
+      }
+    },
+    "systems": {
+      "label": {
+        "climate": "Climatización",
+        "lighting": "Iluminación",
+        "electricity": "Electricidad",
+        "telecoms": "Telecomunicaciones",
+        "miscellaneous": "Varios"
+      },
+      "value": {
+        "climate": "Suelo radiante y agua caliente sanitaria mediante sistema de aerotermia. Aire acondicionado por bomba de calor. Difusores lineales negros Madel Look en planta baja; difusores de aluminio Madel LMT Mini en planta superior.",
+        "lighting": "Lámparas LED según plano, regulables en dormitorios, salón, comedor y cocina. Apliques exteriores de aluminio antracita. Focos de jardín con piqueta.",
+        "electricity": "Cableado de cobre conforme a normativa. Mecanismos Jung LS990 en color crema.",
+        "telecoms": "Antena de TV, parabólica y antena de cable con tomas en todas las estancias. Repetidor Wi-Fi. Videoportero en el recibidor.",
+        "miscellaneous": "Barbacoa de gas en la terraza superior (~80 cm, botella integrada). Parrilla de leña en la terraza de la piscina con puertas de iroko. Barras de cortina empotradas en techo en el salón y el dormitorio principal. Alarma Trablisa instalada."
+      }
+    }
+  },
+  "contact": {
+    "intro": "Para más información o para concertar una visita privada, utilice el formulario que aparece a continuación. Todas las consultas son atendidas personalmente por Claudia Zivko.",
+    "name": "Nombre",
+    "email": "Correo electrónico",
+    "message": "Mensaje",
+    "send": "Enviar consulta",
+    "success": "Gracias. Claudia se pondrá en contacto con usted en breve."
+  }
+}

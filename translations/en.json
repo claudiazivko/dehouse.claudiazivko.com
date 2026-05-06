@@ -1,0 +1,154 @@
+{
+  "nav": {
+    "location": "Location",
+    "features": "Features",
+    "floor_plans": "Floor Plans",
+    "gallery": "Gallery",
+    "specifications": "Specifications",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "New Built House in Establiments, Mallorca"
+  },
+  "sections": {
+    "location": "LOCATION",
+    "features": "FEATURES",
+    "floor_plans": "FLOOR PLANS",
+    "gallery": "GALLERY",
+    "specifications": "SPECIFICATIONS",
+    "contact": "CONTACT"
+  },
+  "location": {
+    "copy_1": "Establiments is a quiet village on the northern edge of Palma, tucked into the foothills of the Serra de Tramuntana — the limestone range that shelters the island's western coast and has been recognized as a UNESCO World Heritage landscape.",
+    "copy_2": "From the house it is a ten-minute drive to the centre of Palma and its old town, fifteen to the port, and under twenty to the airport. Nearby are the island's most reputed golf courses, the hiking trails of Valldemossa and Bunyola, and the beaches of the Bay of Palma."
+  },
+  "features": {
+    "label": {
+      "plot": "Plot",
+      "built_area": "Built area",
+      "bedrooms": "Bedrooms",
+      "bathrooms": "Bathrooms",
+      "fireplace": "Fireplace",
+      "pool": "Pool",
+      "heating": "Heating / Cooling",
+      "roof_terrace": "Roof terrace",
+      "garage": "Garage",
+      "price": "Price",
+      "year_built": "Year built"
+    },
+    "value": {
+      "bedrooms": "3 (master + 2)",
+      "bathrooms": "3 + guest toilet",
+      "fireplace": "Wood, guillotine glass",
+      "pool": "30 m² — saline electrolysis",
+      "heating": "Underfloor heating — Aerothermal + heat pump",
+      "garage": "2 cars",
+      "year_built": "Newly built"
+    }
+  },
+  "floorplans": {
+    "ground_floor": "Ground Floor",
+    "first_floor": "First Floor",
+    "plot_label": "Plot:",
+    "built_area_label": "Built area:"
+  },
+  "specs": {
+    "tab": {
+      "overview": "Overview",
+      "structure": "Structure & Envelope",
+      "interiors": "Interiors & Finishes",
+      "systems": "Systems & Equipment"
+    },
+    "overview": {
+      "label": {
+        "reference": "Reference",
+        "location": "Location",
+        "plot": "Plot",
+        "built_area": "Built area",
+        "bedrooms": "Bedrooms",
+        "bathrooms": "Bathrooms",
+        "pool": "Pool",
+        "roof_terrace": "Roof terrace",
+        "garage": "Garage",
+        "heating": "Heating / Cooling",
+        "fireplace": "Fireplace",
+        "price": "Price",
+        "year_built": "Year built"
+      },
+      "value": {
+        "location": "Establiments, Mallorca, Spain",
+        "bedrooms": "3 (master + 2)",
+        "bathrooms": "3 + guest toilet",
+        "pool": "30 m² — saline electrolysis",
+        "garage": "2 cars",
+        "heating": "Underfloor heating — Aerothermal + heat pump",
+        "fireplace": "Wood, guillotine glass",
+        "year_built": "Newly built"
+      }
+    },
+    "structure": {
+      "label": {
+        "structure": "Structure",
+        "exterior_enclosure": "Exterior enclosure",
+        "interior_partitions": "Interior partitions",
+        "exterior_joinery": "Exterior joinery",
+        "paint": "Paint",
+        "skirting": "Skirting"
+      },
+      "value": {
+        "structure": "Reinforced-concrete footing, pillars and horizontal slab floor. Gable roof with painted wooden beams on the upper floor.",
+        "exterior_enclosure": "26 cm facade comprised of H-20 brick walls on 1:4 Portland cement and sand mortar, thermally insulated with 45 mm rock wool. Inner wall in two 12 mm Pladur plasterboard sheets.",
+        "interior_partitions": "Double-layer 12 mm Pladur plasterboard on both sides with 45 mm mineral-wool thermal and acoustic insulation between panels.",
+        "exterior_joinery": "Aluminium in anthracite (RAL 7022 TX) on the ground floor and RAL 1013 on the upper floor. Guardian Sun® glass with air chamber. Aluminium blinds on the first floor in 6021 TX green. Iroko main door. Iron-profile glazing on the indoor patio; outdoor iron pergola with a reed top; motorised garage door.",
+        "paint": "Limewash interior paint in sand; normal paint on wooden beams. Sand-coloured facade with a trowel-plastered finish.",
+        "skirting": "Invisible skirting throughout the interior, except bathrooms."
+      }
+    },
+    "interiors": {
+      "label": {
+        "interior_joinery": "Interior joinery",
+        "flooring": "Flooring & tiling",
+        "bathrooms": "Bathrooms",
+        "kitchen": "Kitchen",
+        "kitchen_appliances": "Kitchen appliances",
+        "fireplace": "Fireplace",
+        "pool": "Pool",
+        "garden": "Garden"
+      },
+      "value": {
+        "interior_joinery": "Oak interior doors. Oak fitted wardrobes lined in textile melamine. Galbusera 1833/M handles in antique black and 25 mm Raw Metal wardrobe pulls. Bathroom under-basin drawers in oak-finished DM.",
+        "flooring": "Ground floor, hall and upper-floor bathrooms in 60×60 cm stone. Upper-floor bedrooms in 20 cm natural oak. Pool and upper-floor terraces in 60×60 cm bush-hammered stone. Polished-concrete garage. Microcement tiling in wet areas.",
+        "bathrooms": "Stone countertops and washbasins. Full-height transparent glass shower screens; walk-in shower built into floor, ceiling and wall. Ritmonio Diam 35 single-lever mixers in BLX brushed black. Laufen bathtub with stone lining and skirting. Duravit Starck 3 wall-mounted toilets. Geberit concealed tanks with Sigma 20 button in black.",
+        "kitchen": "Stone countertop and oak-finish cabinetry with forged pulls. Anthracite-melamine interiors. Panelled refrigerator and dishwasher.",
+        "kitchen_appliances": "Induction cooktop with BORA Pure downdraft to the outside. Gaggenau oven (BOP210112) and microwave (BMO224110). Liebherr Bio Fresh refrigerator/freezer. Miele Active Plus dishwasher and wine fridge. Blanco Andano 500-U undermount sink, FONTAS-S II 3-in-1 faucet in black.",
+        "fireplace": "Black-iron 100 cm wood fireplace with guillotine glass door on front.",
+        "pool": "Saline electrolysis with skimmers and Pool Valet cleaning system. 2×2 cm dark-green mosaic tile.",
+        "garden": "Delivered with automatic irrigation. Scutch grass planted; hedges in pots and existing trees replanted."
+      }
+    },
+    "systems": {
+      "label": {
+        "climate": "Climate",
+        "lighting": "Lighting",
+        "electricity": "Electricity",
+        "telecoms": "Telecoms",
+        "miscellaneous": "Miscellaneous"
+      },
+      "value": {
+        "climate": "Underfloor heating and domestic hot water via an aerothermal system. Air-conditioning by heat pump. Madel Look black linear diffusers on the ground floor; Madel LMT Mini aluminium diffusers on the upper floor.",
+        "lighting": "LED lamps per drawing, adjustable in bedrooms, living, dining and kitchen. Anthracite-aluminium exterior appliques. Garden spike lights.",
+        "electricity": "Copper wiring to regulation. Jung LS990 mechanisms in cream.",
+        "telecoms": "TV antenna, parabolic and cable antenna with outlets in every room. Wi-Fi repeater. Video door entry phone in the hall.",
+        "miscellaneous": "Gas barbecue grill on the upper terrace (~80 cm, integrated bottle). Wood-fired grill on the pool terrace with iroko doors. Ceiling-mounted curtain rods in the living room and master bedroom. Trablisa alarm installed."
+      }
+    }
+  },
+  "contact": {
+    "intro": "For further information or to arrange a private viewing, please use the form below. All enquiries are handled personally by Claudia Zivko.",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "send": "Send enquiry",
+    "success": "Thank you. Claudia will be in touch shortly."
+  }
+}

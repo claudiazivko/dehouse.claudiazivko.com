@@ -1,0 +1,154 @@
+{
+  "nav": {
+    "location": "Emplacement",
+    "features": "Caractéristiques",
+    "floor_plans": "Plans",
+    "gallery": "Galerie",
+    "specifications": "Spécifications",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Maison neuve à Establiments, Mallorca"
+  },
+  "sections": {
+    "location": "EMPLACEMENT",
+    "features": "CARACTÉRISTIQUES",
+    "floor_plans": "PLANS",
+    "gallery": "GALERIE",
+    "specifications": "SPÉCIFICATIONS",
+    "contact": "CONTACT"
+  },
+  "location": {
+    "copy_1": "Establiments est un village paisible situé à la lisière nord de Palma, niché dans les contreforts de la Serra de Tramuntana, le massif calcaire qui protège la côte occidentale de l’île et qui est reconnu comme paysage du patrimoine mondial de l’UNESCO.",
+    "copy_2": "Depuis la maison, il faut dix minutes en voiture pour rejoindre le centre de Palma et sa vieille ville, quinze minutes pour le port et moins de vingt minutes pour l’aéroport. À proximité se trouvent certains des parcours de golf les plus réputés de l’île, les sentiers de randonnée de Valldemossa et Bunyola, ainsi que les plages de la baie de Palma."
+  },
+  "features": {
+    "label": {
+      "plot": "Terrain",
+      "built_area": "Surface construite",
+      "bedrooms": "Chambres",
+      "bathrooms": "Salles de bains",
+      "fireplace": "Cheminée",
+      "pool": "Piscine",
+      "heating": "Chauffage / Climatisation",
+      "roof_terrace": "Toit-terrasse",
+      "garage": "Garage",
+      "price": "Prix",
+      "year_built": "Année de construction"
+    },
+    "value": {
+      "bedrooms": "3 (suite principale + 2)",
+      "bathrooms": "3 + toilettes invités",
+      "fireplace": "Bois, vitre guillotine",
+      "pool": "30 m² — électrolyse saline",
+      "heating": "Chauffage au sol — aérothermie + pompe à chaleur",
+      "garage": "2 voitures",
+      "year_built": "Construction neuve"
+    }
+  },
+  "floorplans": {
+    "ground_floor": "Rez-de-chaussée",
+    "first_floor": "Premier étage",
+    "plot_label": "Terrain :",
+    "built_area_label": "Surface construite :"
+  },
+  "specs": {
+    "tab": {
+      "overview": "Aperçu",
+      "structure": "Structure et enveloppe",
+      "interiors": "Intérieurs et finitions",
+      "systems": "Systèmes et équipements"
+    },
+    "overview": {
+      "label": {
+        "reference": "Référence",
+        "location": "Emplacement",
+        "plot": "Terrain",
+        "built_area": "Surface construite",
+        "bedrooms": "Chambres",
+        "bathrooms": "Salles de bains",
+        "pool": "Piscine",
+        "roof_terrace": "Toit-terrasse",
+        "garage": "Garage",
+        "heating": "Chauffage / Climatisation",
+        "fireplace": "Cheminée",
+        "price": "Prix",
+        "year_built": "Année de construction"
+      },
+      "value": {
+        "location": "Establiments, Mallorca, Espagne",
+        "bedrooms": "3 (suite principale + 2)",
+        "bathrooms": "3 + toilettes invités",
+        "pool": "30 m² — électrolyse saline",
+        "garage": "2 voitures",
+        "heating": "Chauffage au sol — aérothermie + pompe à chaleur",
+        "fireplace": "Bois, vitre guillotine",
+        "year_built": "Construction neuve"
+      }
+    },
+    "structure": {
+      "label": {
+        "structure": "Structure",
+        "exterior_enclosure": "Enveloppe extérieure",
+        "interior_partitions": "Cloisons intérieures",
+        "exterior_joinery": "Menuiseries extérieures",
+        "paint": "Peinture",
+        "skirting": "Plinthes"
+      },
+      "value": {
+        "structure": "Semelles, piliers et plancher horizontal en béton armé. Toiture à deux pans avec poutres en bois peintes à l’étage supérieur.",
+        "exterior_enclosure": "Façade de 26 cm composée de murs en brique H-20 sur mortier de ciment Portland et sable 1:4, isolée thermiquement avec 45 mm de laine de roche. Paroi intérieure composée de deux plaques de plâtre Pladur de 12 mm.",
+        "interior_partitions": "Double plaque de plâtre Pladur de 12 mm de chaque côté, avec isolation thermique et acoustique en laine minérale de 45 mm entre les panneaux.",
+        "exterior_joinery": "Aluminium anthracite (RAL 7022 TX) au rez-de-chaussée et RAL 1013 à l’étage supérieur. Verre Guardian Sun® avec lame d’air. Volets en aluminium au premier étage en vert 6021 TX. Porte principale en iroko. Vitrage à profilés en fer sur le patio intérieur ; pergola extérieure en fer avec couverture en roseau ; porte de garage motorisée.",
+        "paint": "Peinture intérieure à la chaux en ton sable ; peinture normale sur les poutres en bois. Façade couleur sable avec finition enduite à la taloche.",
+        "skirting": "Plinthes invisibles dans tout l’intérieur, à l’exception des salles de bains."
+      }
+    },
+    "interiors": {
+      "label": {
+        "interior_joinery": "Menuiseries intérieures",
+        "flooring": "Sols et revêtements",
+        "bathrooms": "Salles de bains",
+        "kitchen": "Cuisine",
+        "kitchen_appliances": "Électroménager de cuisine",
+        "fireplace": "Cheminée",
+        "pool": "Piscine",
+        "garden": "Jardin"
+      },
+      "value": {
+        "interior_joinery": "Portes intérieures en chêne. Placards intégrés en chêne, doublés de mélamine textile. Poignées Galbusera 1833/M en noir antique et poignées d’armoire Raw Metal de 25 mm. Tiroirs sous vasque en DM finition chêne.",
+        "flooring": "Rez-de-chaussée, hall et salles de bains de l’étage supérieur en pierre de 60×60 cm. Chambres de l’étage supérieur en chêne naturel de 20 cm. Piscine et terrasses de l’étage supérieur en pierre bouchardée de 60×60 cm. Garage en béton poli. Revêtement en microciment dans les zones humides.",
+        "bathrooms": "Plans de toilette et vasques en pierre. Parois de douche en verre transparent pleine hauteur ; douche à l’italienne intégrée au sol, au plafond et au mur. Mitigeurs monocommande Ritmonio Diam 35 en BLX noir brossé. Baignoire Laufen avec habillage et plinthe en pierre. Toilettes suspendues Duravit Starck 3. Réservoirs encastrés Geberit avec plaque Sigma 20 noire.",
+        "kitchen": "Plan de travail en pierre et mobilier finition chêne avec poignées forgées. Intérieurs en mélamine anthracite. Réfrigérateur et lave-vaisselle intégrés en façade.",
+        "kitchen_appliances": "Plaque à induction avec aspiration descendante BORA Pure vers l’extérieur. Four Gaggenau (BOP210112) et micro-ondes (BMO224110). Réfrigérateur/congélateur Liebherr Bio Fresh. Lave-vaisselle Miele Active Plus et cave à vin. Évier sous plan Blanco Andano 500-U, robinet FONTAS-S II 3-en-1 noir.",
+        "fireplace": "Cheminée à bois de 100 cm en fer noir avec porte frontale en verre guillotine.",
+        "pool": "Électrolyse saline avec skimmers et système de nettoyage Pool Valet. Mosaïque vert foncé de 2×2 cm.",
+        "garden": "Livré avec arrosage automatique. Gazon scutch planté ; haies en pots et arbres existants replantés."
+      }
+    },
+    "systems": {
+      "label": {
+        "climate": "Climatisation",
+        "lighting": "Éclairage",
+        "electricity": "Électricité",
+        "telecoms": "Télécommunications",
+        "miscellaneous": "Divers"
+      },
+      "value": {
+        "climate": "Chauffage au sol et eau chaude sanitaire via un système aérothermique. Climatisation par pompe à chaleur. Diffuseurs linéaires noirs Madel Look au rez-de-chaussée ; diffuseurs en aluminium Madel LMT Mini à l’étage supérieur.",
+        "lighting": "Lampes LED selon plan, réglables dans les chambres, le salon, la salle à manger et la cuisine. Appliques extérieures en aluminium anthracite. Piquets lumineux de jardin.",
+        "electricity": "Câblage en cuivre conforme à la réglementation. Mécanismes Jung LS990 en crème.",
+        "telecoms": "Antenne TV, parabole et antenne câble avec prises dans chaque pièce. Répéteur Wi-Fi. Visiophone dans le hall.",
+        "miscellaneous": "Barbecue à gaz sur la terrasse supérieure (~80 cm, bouteille intégrée). Grill au bois sur la terrasse de la piscine avec portes en iroko. Tringles à rideaux montées au plafond dans le salon et la chambre principale. Alarme Trablisa installée."
+      }
+    }
+  },
+  "contact": {
+    "intro": "Pour de plus amples informations ou pour organiser une visite privée, veuillez utiliser le formulaire ci-dessous. Toutes les demandes sont traitées personnellement par Claudia Zivko.",
+    "name": "Nom",
+    "email": "E-mail",
+    "message": "Message",
+    "send": "Envoyer la demande",
+    "success": "Merci. Claudia vous contactera sous peu."
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "nav": {
+    "location": "Lage",
+    "features": "Merkmale",
+    "floor_plans": "Grundrisse",
+    "gallery": "Galerie",
+    "specifications": "Ausstattung",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "title": "Neubauhaus in Establiments, Mallorca"
+  },
+  "sections": {
+    "location": "LAGE",
+    "features": "MERKMALE",
+    "floor_plans": "GRUNDRISSE",
+    "gallery": "GALERIE",
+    "specifications": "AUSSTATTUNG",
+    "contact": "KONTAKT"
+  },
+  "location": {
+    "copy_1": "Establiments ist ein ruhiger Ort am nördlichen Rand von Palma, eingebettet in die Ausläufer der Serra de Tramuntana, jenes Kalksteingebirges, das die Westküste der Insel schützt und als UNESCO-Welterbelandschaft anerkannt ist.",
+    "copy_2": "Vom Haus aus erreichen Sie das Zentrum von Palma und die Altstadt in zehn Autominuten, den Hafen in fünfzehn Minuten und den Flughafen in weniger als zwanzig Minuten. In der Nähe befinden sich einige der renommiertesten Golfplätze der Insel, die Wanderwege von Valldemossa und Bunyola sowie die Strände der Bucht von Palma."
+  },
+  "features": {
+    "label": {
+      "plot": "Grundstück",
+      "built_area": "Bebaute Fläche",
+      "bedrooms": "Schlafzimmer",
+      "bathrooms": "Badezimmer",
+      "fireplace": "Kamin",
+      "pool": "Pool",
+      "heating": "Heizung / Kühlung",
+      "roof_terrace": "Dachterrasse",
+      "garage": "Garage",
+      "price": "Preis",
+      "year_built": "Baujahr"
+    },
+    "value": {
+      "bedrooms": "3 (Master + 2)",
+      "bathrooms": "3 + Gäste-WC",
+      "fireplace": "Holz, Guillotine-Glas",
+      "pool": "30 m² — Salzelektrolyse",
+      "heating": "Fußbodenheizung — Aerothermie + Wärmepumpe",
+      "garage": "2 Autos",
+      "year_built": "Neubau"
+    }
+  },
+  "floorplans": {
+    "ground_floor": "Erdgeschoss",
+    "first_floor": "Obergeschoss",
+    "plot_label": "Grundstück:",
+    "built_area_label": "Bebaute Fläche:"
+  },
+  "specs": {
+    "tab": {
+      "overview": "Überblick",
+      "structure": "Struktur & Gebäudehülle",
+      "interiors": "Innenräume & Oberflächen",
+      "systems": "Systeme & Ausstattung"
+    },
+    "overview": {
+      "label": {
+        "reference": "Referenz",
+        "location": "Lage",
+        "plot": "Grundstück",
+        "built_area": "Bebaute Fläche",
+        "bedrooms": "Schlafzimmer",
+        "bathrooms": "Badezimmer",
+        "pool": "Pool",
+        "roof_terrace": "Dachterrasse",
+        "garage": "Garage",
+        "heating": "Heizung / Kühlung",
+        "fireplace": "Kamin",
+        "price": "Preis",
+        "year_built": "Baujahr"
+      },
+      "value": {
+        "location": "Establiments, Mallorca, Spanien",
+        "bedrooms": "3 (Master + 2)",
+        "bathrooms": "3 + Gäste-WC",
+        "pool": "30 m² — Salzelektrolyse",
+        "garage": "2 Autos",
+        "heating": "Fußbodenheizung — Aerothermie + Wärmepumpe",
+        "fireplace": "Holz, Guillotine-Glas",
+        "year_built": "Neubau"
+      }
+    },
+    "structure": {
+      "label": {
+        "structure": "Tragwerk",
+        "exterior_enclosure": "Außenwände",
+        "interior_partitions": "Innenwände",
+        "exterior_joinery": "Außenschreinerei",
+        "paint": "Anstrich",
+        "skirting": "Sockelleisten"
+      },
+      "value": {
+        "structure": "Fundamente, Pfeiler und horizontale Geschossdecke aus Stahlbeton. Satteldach mit gestrichenen Holzbalken im Obergeschoss.",
+        "exterior_enclosure": "26 cm starke Fassade aus H-20-Ziegelwänden auf Portlandzement-Sand-Mörtel 1:4, wärmegedämmt mit 45 mm Steinwolle. Innenseitige Wand mit zwei 12 mm Pladur-Gipskartonplatten.",
+        "interior_partitions": "Beidseitig doppelt beplankte 12 mm Pladur-Gipskartonwände mit 45 mm Mineralwolle zur Wärme- und Schalldämmung zwischen den Platten.",
+        "exterior_joinery": "Aluminium in Anthrazit (RAL 7022 TX) im Erdgeschoss und RAL 1013 im Obergeschoss. Guardian Sun® Glas mit Luftkammer. Aluminium-Rollläden im ersten Obergeschoss in Grün 6021 TX. Haupteingangstür aus Iroko. Verglasung mit Eisenprofilen im Innenhof; Pergola im Außenbereich aus Eisen mit Schilfabdeckung; motorisiertes Garagentor.",
+        "paint": "Innenanstrich mit Kalkfarbe in Sandton; normaler Anstrich auf Holzbalken. Sandfarbene Fassade mit geglättetem Putzfinish.",
+        "skirting": "Unsichtbare Sockelleisten im gesamten Innenbereich, ausgenommen Badezimmer."
+      }
+    },
+    "interiors": {
+      "label": {
+        "interior_joinery": "Innenschreinerei",
+        "flooring": "Böden & Fliesen",
+        "bathrooms": "Badezimmer",
+        "kitchen": "Küche",
+        "kitchen_appliances": "Küchengeräte",
+        "fireplace": "Kamin",
+        "pool": "Pool",
+        "garden": "Garten"
+      },
+      "value": {
+        "interior_joinery": "Innentüren aus Eiche. Einbauschränke aus Eiche, innen mit textiler Melaminbeschichtung ausgekleidet. Galbusera 1833/M Griffe in Antikschwarz und 25 mm Raw Metal Schrankgriffe. Waschtischunterschränke aus DM mit Eichenfinish.",
+        "flooring": "Erdgeschoss, Diele und Badezimmer im Obergeschoss mit 60×60 cm Stein. Schlafzimmer im Obergeschoss mit 20 cm Natureiche. Pool und Terrassen im Obergeschoss mit 60×60 cm gestocktem Stein. Garage aus poliertem Beton. Mikrozementbelag in Nassbereichen.",
+        "bathrooms": "Arbeitsplatten und Waschbecken aus Stein. Raumhohe transparente Glas-Duschabtrennungen; bodengleiche Dusche, in Boden, Decke und Wand integriert. Ritmonio Diam 35 Einhebelmischer in BLX gebürstetem Schwarz. Laufen Badewanne mit Steinverkleidung und Sockel. Wandhängende Duravit Starck 3 WCs. Geberit Unterputzspülkästen mit Sigma 20 Betätigungsplatte in Schwarz.",
+        "kitchen": "Arbeitsplatte aus Stein und Schränke in Eichenoptik mit geschmiedeten Griffen. Innenausstattung in Anthrazit-Melamin. Verkleideter Kühlschrank und Geschirrspüler.",
+        "kitchen_appliances": "Induktionskochfeld mit BORA Pure Muldenlüfter nach außen. Gaggenau Backofen (BOP210112) und Mikrowelle (BMO224110). Liebherr Bio Fresh Kühl-/Gefrierkombination. Miele Active Plus Geschirrspüler und Weinkühlschrank. Blanco Andano 500-U Unterbauspüle, FONTAS-S II 3-in-1 Armatur in Schwarz.",
+        "fireplace": "100 cm Holzkamin aus schwarzem Eisen mit frontaler Guillotine-Glasöffnung.",
+        "pool": "Salzelektrolyse mit Skimmern und Pool Valet Reinigungssystem. 2×2 cm dunkelgrünes Mosaik.",
+        "garden": "Übergabe mit automatischer Bewässerung. Scutch-Rasen angelegt; Hecken in Töpfen und vorhandene Bäume neu verpflanzt."
+      }
+    },
+    "systems": {
+      "label": {
+        "climate": "Klima",
+        "lighting": "Beleuchtung",
+        "electricity": "Elektrik",
+        "telecoms": "Telekommunikation",
+        "miscellaneous": "Sonstiges"
+      },
+      "value": {
+        "climate": "Fußbodenheizung und Warmwasser über ein aerothermisches System. Klimaanlage über Wärmepumpe. Schwarze lineare Madel Look Auslässe im Erdgeschoss; Madel LMT Mini Aluminium-Auslässe im Obergeschoss.",
+        "lighting": "LED-Leuchten gemäß Plan, dimmbar in Schlafzimmern, Wohnbereich, Essbereich und Küche. Außenwandleuchten aus Anthrazit-Aluminium. Gartenstrahler mit Erdspieß.",
+        "electricity": "Kupferverkabelung gemäß Vorschrift. Jung LS990 Schalterprogramm in Creme.",
+        "telecoms": "TV-Antenne, Satellitenschüssel und Kabelantenne mit Anschlüssen in jedem Raum. Wi-Fi Repeater. Video-Gegensprechanlage in der Diele.",
+        "miscellaneous": "Gasgrill auf der oberen Terrasse (~80 cm, integrierte Flasche). Holzgrill auf der Poolterrasse mit Iroko-Türen. Deckenmontierte Gardinenstangen im Wohnzimmer und im Master-Schlafzimmer. Trablisa Alarmanlage installiert."
+      }
+    }
+  },
+  "contact": {
+    "intro": "Für weitere Informationen oder zur Vereinbarung einer privaten Besichtigung nutzen Sie bitte das untenstehende Formular. Alle Anfragen werden persönlich von Claudia Zivko betreut.",
+    "name": "Name",
+    "email": "E-Mail",
+    "message": "Nachricht",
+    "send": "Anfrage senden",
+    "success": "Vielen Dank. Claudia wird sich in Kürze mit Ihnen in Verbindung setzen."
+  }
+}

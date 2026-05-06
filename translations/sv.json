@@ -1,0 +1,154 @@
+{
+  "nav": {
+    "location": "Läge",
+    "features": "Egenskaper",
+    "floor_plans": "Planritningar",
+    "gallery": "Galleri",
+    "specifications": "Specifikationer",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "title": "Nybyggt hus i Establiments, Mallorca"
+  },
+  "sections": {
+    "location": "LÄGE",
+    "features": "EGENSKAPER",
+    "floor_plans": "PLANRITNINGAR",
+    "gallery": "GALLERI",
+    "specifications": "SPECIFIKATIONER",
+    "contact": "KONTAKT"
+  },
+  "location": {
+    "copy_1": "Establiments är en stillsam by vid Palmas norra kant, inbäddad vid foten av Serra de Tramuntana, den kalkstensbergskedja som skyddar öns västkust och som är erkänd som ett UNESCO-världsarvslandskap.",
+    "copy_2": "Från huset tar det tio minuter med bil till centrala Palma och den gamla stadskärnan, femton minuter till hamnen och mindre än tjugo minuter till flygplatsen. I närheten finns några av öns mest ansedda golfbanor, vandringslederna vid Valldemossa och Bunyola samt stränderna längs Palmabukten."
+  },
+  "features": {
+    "label": {
+      "plot": "Tomt",
+      "built_area": "Byggd yta",
+      "bedrooms": "Sovrum",
+      "bathrooms": "Badrum",
+      "fireplace": "Eldstad",
+      "pool": "Pool",
+      "heating": "Värme / Kyla",
+      "roof_terrace": "Takterrass",
+      "garage": "Garage",
+      "price": "Pris",
+      "year_built": "Byggår"
+    },
+    "value": {
+      "bedrooms": "3 (master + 2)",
+      "bathrooms": "3 + gästtoalett",
+      "fireplace": "Ved, giljotinglas",
+      "pool": "30 m² — saltelektrolys",
+      "heating": "Golvvärme — aerotermi + värmepump",
+      "garage": "2 bilar",
+      "year_built": "Nybyggt"
+    }
+  },
+  "floorplans": {
+    "ground_floor": "Bottenvåning",
+    "first_floor": "Övervåning",
+    "plot_label": "Tomt:",
+    "built_area_label": "Byggd yta:"
+  },
+  "specs": {
+    "tab": {
+      "overview": "Översikt",
+      "structure": "Konstruktion och klimatskal",
+      "interiors": "Interiör och materialval",
+      "systems": "System och utrustning"
+    },
+    "overview": {
+      "label": {
+        "reference": "Referens",
+        "location": "Läge",
+        "plot": "Tomt",
+        "built_area": "Byggd yta",
+        "bedrooms": "Sovrum",
+        "bathrooms": "Badrum",
+        "pool": "Pool",
+        "roof_terrace": "Takterrass",
+        "garage": "Garage",
+        "heating": "Värme / Kyla",
+        "fireplace": "Eldstad",
+        "price": "Pris",
+        "year_built": "Byggår"
+      },
+      "value": {
+        "location": "Establiments, Mallorca, Spanien",
+        "bedrooms": "3 (master + 2)",
+        "bathrooms": "3 + gästtoalett",
+        "pool": "30 m² — saltelektrolys",
+        "garage": "2 bilar",
+        "heating": "Golvvärme — aerotermi + värmepump",
+        "fireplace": "Ved, giljotinglas",
+        "year_built": "Nybyggt"
+      }
+    },
+    "structure": {
+      "label": {
+        "structure": "Konstruktion",
+        "exterior_enclosure": "Ytterväggar",
+        "interior_partitions": "Innerväggar",
+        "exterior_joinery": "Utvändig snickeri",
+        "paint": "Målning",
+        "skirting": "Socklar"
+      },
+      "value": {
+        "structure": "Grundsula, pelare och horisontellt bjälklag i armerad betong. Sadeltak med målade träbjälkar på övervåningen.",
+        "exterior_enclosure": "26 cm fasad bestående av H-20-tegelväggar på 1:4 Portlandcement- och sandbruk, värmeisolerad med 45 mm stenull. Invändig vägg med två 12 mm Pladur gipsskivor.",
+        "interior_partitions": "Dubbel 12 mm Pladur gipsskiva på båda sidor med 45 mm mineralullsisolering för värme och akustik mellan skivorna.",
+        "exterior_joinery": "Aluminium i antracit (RAL 7022 TX) på bottenvåningen och RAL 1013 på övervåningen. Guardian Sun® glas med luftspalt. Aluminiumjalusier på första våningen i grönt 6021 TX. Huvuddörr i iroko. Glaspartier med järnprofiler mot innergården; utvändig pergola i järn med vassbeklädnad; motoriserad garageport.",
+        "paint": "Invändig kalkfärg i sandton; normal färg på träbjälkar. Sandfärgad fasad med putsad finish.",
+        "skirting": "Osynliga socklar i hela interiören, med undantag för badrum."
+      }
+    },
+    "interiors": {
+      "label": {
+        "interior_joinery": "Invändig snickeri",
+        "flooring": "Golv och kakel",
+        "bathrooms": "Badrum",
+        "kitchen": "Kök",
+        "kitchen_appliances": "Köksmaskiner",
+        "fireplace": "Eldstad",
+        "pool": "Pool",
+        "garden": "Trädgård"
+      },
+      "value": {
+        "interior_joinery": "Innerdörrar i ek. Inbyggda garderober i ek, klädda invändigt med textil melamin. Galbusera 1833/M handtag i antiksvart och 25 mm Raw Metal garderobsbeslag. Underskåp till badrumskommoder i DM med ekfinish.",
+        "flooring": "Bottenvåning, hall och badrum på övervåningen i 60×60 cm sten. Sovrum på övervåningen i 20 cm naturek. Pool och terrasser på övervåningen i 60×60 cm krysshamrad sten. Garage i polerad betong. Mikrocement i våtutrymmen.",
+        "bathrooms": "Bänkskivor och handfat i sten. Duschväggar i klart glas i full höjd; walk-in-dusch integrerad i golv, tak och vägg. Ritmonio Diam 35 engreppsblandare i BLX borstad svart. Laufen badkar med stenbeklädnad och sockel. Duravit Starck 3 vägghängda toaletter. Geberit inbyggnadscisterner med Sigma 20 knapp i svart.",
+        "kitchen": "Bänkskiva i sten och skåp med ekfinish och smidda beslag. Interiörer i antracitfärgad melamin. Integrerad kyl och diskmaskin.",
+        "kitchen_appliances": "Induktionshäll med BORA Pure bänkfläkt till utsidan. Gaggenau ugn (BOP210112) och mikrovågsugn (BMO224110). Liebherr Bio Fresh kyl/frys. Miele Active Plus diskmaskin och vinkyl. Blanco Andano 500-U undermonterad diskho, FONTAS-S II 3-i-1 blandare i svart.",
+        "fireplace": "100 cm vedeldad eldstad i svart järn med frontlucka i giljotinglas.",
+        "pool": "Saltelektrolys med skimmers och Pool Valet rengöringssystem. 2×2 cm mörkgrön mosaik.",
+        "garden": "Levereras med automatisk bevattning. Scutch-gräs planterat; häckar i krukor och befintliga träd återplanterade."
+      }
+    },
+    "systems": {
+      "label": {
+        "climate": "Klimat",
+        "lighting": "Belysning",
+        "electricity": "El",
+        "telecoms": "Telekom",
+        "miscellaneous": "Övrigt"
+      },
+      "value": {
+        "climate": "Golvvärme och tappvarmvatten via ett aerotermiskt system. Luftkonditionering med värmepump. Madel Look svarta linjära don på bottenvåningen; Madel LMT Mini aluminiumdon på övervåningen.",
+        "lighting": "LED-armaturer enligt ritning, dimbara i sovrum, vardagsrum, matsal och kök. Utvändiga vägglampor i antracitfärgad aluminium. Trädgårdsspotlights med markspjut.",
+        "electricity": "Kopparkablar enligt gällande föreskrifter. Jung LS990 strömbrytare i creme.",
+        "telecoms": "TV-antenn, parabol och kabelantenn med uttag i varje rum. Wi-Fi repeater. Videoporttelefon i hallen.",
+        "miscellaneous": "Gasgrill på den övre terrassen (~80 cm, integrerad gasflaska). Vedgrill på poolterrassen med dörrar i iroko. Takmonterade gardinstänger i vardagsrummet och master bedroom. Trablisa larm installerat."
+      }
+    }
+  },
+  "contact": {
+    "intro": "För mer information eller för att boka en privat visning, använd formuläret nedan. Alla förfrågningar hanteras personligen av Claudia Zivko.",
+    "name": "Namn",
+    "email": "E-post",
+    "message": "Meddelande",
+    "send": "Skicka förfrågan",
+    "success": "Tack. Claudia återkommer till dig inom kort."
+  }
+}
