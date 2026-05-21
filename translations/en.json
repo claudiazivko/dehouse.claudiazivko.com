@@ -151,5 +151,10 @@
     "message": "Message",
     "send": "Send enquiry",
     "success": "Thank you. Claudia will be in touch shortly."
+  },
+  "expose": {
+    "text": "Download the full property presentation",
+    "note": "Available in English",
+    "link": "Download PDF"
   }
 }

@@ -151,5 +151,10 @@
     "message": "Nachricht",
     "send": "Anfrage senden",
     "success": "Vielen Dank. Claudia wird sich in Kürze mit Ihnen in Verbindung setzen."
+  },
+  "expose": {
+    "text": "Vollständige Präsentation der Immobilie herunterladen",
+    "note": "Auf Englisch verfügbar",
+    "link": "PDF herunterladen"
   }
 }

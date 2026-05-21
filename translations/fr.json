@@ -151,5 +151,10 @@
     "message": "Message",
     "send": "Envoyer la demande",
     "success": "Merci. Claudia vous contactera sous peu."
+  },
+  "expose": {
+    "text": "Télécharger la présentation complète de la propriété",
+    "note": "Disponible en anglais",
+    "link": "Télécharger le PDF"
   }
 }

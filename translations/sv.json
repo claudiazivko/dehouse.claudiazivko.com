@@ -151,5 +151,10 @@
     "message": "Meddelande",
     "send": "Skicka förfrågan",
     "success": "Tack. Claudia återkommer till dig inom kort."
+  },
+  "expose": {
+    "text": "Ladda ner den fullständiga fastighetspresentationen",
+    "note": "Tillgänglig på engelska",
+    "link": "Ladda ner PDF"
   }
 }

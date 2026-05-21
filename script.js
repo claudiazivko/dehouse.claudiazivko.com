@@ -48,7 +48,7 @@ let currentIndex = 0;
 function openLightbox(photos, index) {
   currentGallery = photos;
   currentIndex = index;
-  lightboxImg.src = currentGallery[currentIndex].src;
+  lightboxImg.src = currentGallery[currentIndex].dataset.full || currentGallery[currentIndex].src;
   lightbox.hidden = false;
   requestAnimationFrame(() => requestAnimationFrame(() => {
     lightbox.style.opacity = '1';
@@ -64,7 +64,7 @@ function closeLightbox() {
 
 function showPhoto(index) {
   currentIndex = (index + currentGallery.length) % currentGallery.length;
-  lightboxImg.src = currentGallery[currentIndex].src;
+  lightboxImg.src = currentGallery[currentIndex].dataset.full || currentGallery[currentIndex].src;
 }
 
 document.getElementById('lightbox-close').addEventListener('click', closeLightbox);
