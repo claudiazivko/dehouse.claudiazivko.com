@@ -331,6 +331,17 @@
 
   <script src="i18n.js?v=1"></script>
   <script src="script.js?v=2"></script>
+  <script>
+    var m = document.querySelector('.map-img[data-full]');
+    if (m) m.addEventListener('click', function() {
+      var lb = document.getElementById('lightbox');
+      var li = document.getElementById('lightbox-img');
+      li.src = m.dataset.full;
+      lb.hidden = false;
+      requestAnimationFrame(function() { requestAnimationFrame(function() { lb.style.opacity = '1'; }); });
+      document.body.style.overflow = 'hidden';
+    });
+  </script>
 
   <!-- Structured Data -->
   <script type="application/ld+json">
